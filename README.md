@@ -44,6 +44,10 @@
 >run vagrant VM (vagrant ssh)
 >Now change the directory into vagrant folder  like cd /vagrant
 
+## Questions in this projects
+*1. What are the most popular three aricles of all time?
+*2. Who are the most popular article authors of all time?
+*3. On which days did more than 1% of requests lead to errors?
 ### Consecutive commands used in the project (git/terminal)
 | commands | reasons for command|
 | ------ | ------ |
