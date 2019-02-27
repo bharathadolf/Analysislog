@@ -27,6 +27,7 @@
 > using sublime text application
 > compiled in gitbash
 
+## software requirements
 * [Python](https://www.python.org/) - Interpreted Language
 * [Git](https://git-scm.com/) - for compiling the programs and vagrant
 * [Virtual Box](https://www.virtualbox.org/) -Running multiple operating systems simultaneously.
