@@ -11,10 +11,10 @@
 </p>
 
 
-#                                                                log anlysis project is udacity based project
+##                                                               log anlysis project is udacity based project
 
 <h1 align="center">
-  <a href="https://standardjs.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2000px-Python.svg.png" alt="Standard - JavaScript Style Guide" width="200"></a>
+  <a href="https://github.com/bharathadolf/Analysislog"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2000px-Python.svg.png" alt="python-icon" width="300"></a>
   <br>
 
 ### Log analysis is?
