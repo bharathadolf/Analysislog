@@ -20,6 +20,7 @@
 ### Log analysis is?
        A Reporting page that prints out reports in a plain text format based on the data in the database. This reporting tool is a python program using the `psycopg2` module to connect to the database.
 
+#### brief about project
 > This project is written in python 
 > using database (can be anything either software based or written format )
 > major requirement is psycopg2 module
@@ -27,7 +28,7 @@
 > using sublime text application
 > compiled in gitbash
 
-## software requirements
+## Software requirements
 * [Python](https://www.python.org/) - Interpreted Language
 * [Git](https://git-scm.com/) - for compiling the programs and vagrant
 * [Virtual Box](https://www.virtualbox.org/) -Running multiple operating systems simultaneously.
@@ -53,10 +54,10 @@
 ### Consecutive commands used in the project (git/terminal)
 | commands | reasons for command|
 | ------ | ------ |
-| vagrant up | For launching the vagrant  |
-| vagrant ssh | for running vagrant VM |
-| cd /vagrant | changing the directory to vagrant |
-| ll | for checking the sub folders/files in the directory |
-| cd "directory name" | cd is used to change the directory  |
-| psql -d news -f newsdata.sql| command for Loading the data in local database |
-| python "Analysis".py | For running the python projects |
+| 1)vagrant up | For launching the vagrant  |
+| 2)vagrant ssh | for running vagrant VM |
+| 3)cd /vagrant | changing the directory to vagrant |
+| 4) ll | for checking the sub folders/files in the directory |
+| 5) cd "directory name" | cd is used to change the directory  |
+| 6) psql -d news -f newsdata.sql| command for Loading the data in local database |
+| 7) python "Analysis".py | For running the python projects |
