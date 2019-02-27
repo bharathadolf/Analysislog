@@ -12,6 +12,7 @@ log anlysis project is udacity based project:
   <a href="/docs/README-zhtw.md">繁體中文 (Taiwanese Mandarin)</a>
 </p>
 
+### Log analysis is?
        A Reporting page that prints out reports in a plain text format based on the data in the database. This reporting tool is a python program using the `psycopg2` module to connect to the database.
 
 > This project is written in python 
